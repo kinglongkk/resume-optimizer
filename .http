@@ -1,0 +1,6 @@
+POST http://localhost:8000/api/resume/verify-api-key
+Content-Type: application/json
+
+{
+  "apiKey": "sk-R0mzLiFAi17kIOikq141mY5mmR5luHiyKC8ieEK6qS87Btlg"
+}

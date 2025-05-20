@@ -1,0 +1,15 @@
+INFO:     Will watch for changes in these directories: ['/Users/huangjinlong/resume-optimizer/backend']
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [16608] using StatReload
+INFO:     Started server process [16613]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:55987 - "OPTIONS /api/resume/verify-api-key HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55987 - "POST /api/resume/verify-api-key HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56065 - "POST /api/resume/upload HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56451 - "POST /api/resume/upload HTTP/1.1" 200 OK
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [16613]
+INFO:     Stopping reloader process [16608]
